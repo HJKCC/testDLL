@@ -1,4 +1,4 @@
-package com.chinalancoo.util.security;
+package com.dll.util.security;
 
 public class RSAEncryptUtil{
 	static{
